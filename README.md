@@ -4,8 +4,9 @@
 
 I'm just a guy who loves to code.
 
-I have an affection for RSS Feeds.
-
 Author of Chrome Extension [+Sub](https://github.com/plussub/plussub) which let you easily add subtitles to your HTML-Videos. 
+
+
+I have an affection for RSS Feeds, so I build some custom ones. 
 
 ### My custom RSS feeds: 
