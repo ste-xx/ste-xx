@@ -10,3 +10,9 @@ Author of Chrome Extension [+Sub](https://github.com/plussub/plussub) which let 
 I have an affection for RSS Feeds, so I build some custom ones. 
 
 ### My custom RSS feeds: 
+
+[r/programming at least a score from 500 in a week](https://us-central1-social-channel-notifier.cloudfunctions.net/reddit_Rss)
+
+[HN at least 500 points in a week](https://us-central1-social-channel-notifier.cloudfunctions.net/hackerNews_Rss)
+
+[Some custom followed organizations and users which will be notified if new projects will be created](https://us-central1-social-channel-notifier.cloudfunctions.net/ghUserProject_Rss)
