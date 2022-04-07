@@ -34,9 +34,9 @@ https://github.com/ste-xx/gist-userscript-manager store  https://chrome.google.c
 
 ![Algo](https://shields.io/badge/Algo%20Fun-green?style=for-the-badge&color=0D76A8&logoColor=white)
 
-> [Stone Puzzle Solver](https://github.com/ste-xx/stone-color-puzzle) - ([website](https://stone-puzzle.netlify.app/))
+> [Stone Puzzle Solver](https://github.com/ste-xx/stone-color-puzzle) - ([Website](https://stone-puzzle.netlify.app/))
 
-https://github.com/ste-xx/path-algo 
+> [Path Algorithm](https://ste-xx.github.io/path-algo) - ([Website](https://ste-xx.github.io/path-algo/)) 
 
 ![Misc](https://shields.io/badge/Misc-green?style=for-the-badge&color=0D76A8&logoColor=white)
 
