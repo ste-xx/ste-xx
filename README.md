@@ -5,7 +5,7 @@
 I'm just a guy who loves to code.
 
 ![Browser Extension](https://shields.io/badge/My%20Browser%20Extensions-green?logo=googlechrome&style=for-the-badge&color=0D76A8&logoColor=white)
-
+---
 #### [+Sub](https://github.com/plussub/plussub) adds subtitle to HTML `<video>` tags via file or subtitle search powered by [tmbd](https://www.themoviedb.org/) & [opensubtitles](https://opensubtitles.org)
 ##### [Chrome Web Store](https://chrome.google.com/webstore/detail/%20sub/lpobdmdfgjokempajoobgfdnhjbjlnpm)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/lpobdmdfgjokempajoobgfdnhjbjlnpm?color=0D76A8)
