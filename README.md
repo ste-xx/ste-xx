@@ -48,6 +48,6 @@ SteamPage to Rss
 
 ![Misc](https://shields.io/badge/Misc-green?style=for-the-badge&color=0D76A8&logoColor=white)
 
-https://github.com/ste-xx/eslint-rule-gh-issue
+> [ESLint-Plugin for closed github issues](https://github.com/ste-xx/eslint-rule-gh-issue) - don't let workaround code live forever
 
-https://github.com/plussub/srt-vtt-parser 
+> [srt/vtt parser](https://github.com/plussub/srt-vtt-parser) - a dependency-free subtitle parser for srt and vtt files
