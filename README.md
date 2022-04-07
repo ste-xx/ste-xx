@@ -15,7 +15,7 @@ I have an affection for RSS Feeds, so I build some custom ones.
 > [Some custom followed organizations and users which tracks new created projects](https://us-central1-social-channel-notifier.cloudfunctions.net/ghUserProject_Rss)
 
 ##### Tools 
-SteamPage to Rss
+> [Steam Product Page to RSS](https://github.com/ste-xx/steam-rss-link) - Steam supports RSS feeds for products but does not provide any links on their product page. With that little website you can transform Steam Product Page URL to the relatet RSS feed page.
 
 
 ![Browser Extension](https://shields.io/badge/My%20Browser%20Extensions-green?logo=googlechrome&style=for-the-badge&color=0D76A8&logoColor=white)
