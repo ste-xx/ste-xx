@@ -17,9 +17,27 @@ I have an affection for RSS Feeds, so I build some custom ones.
 
 > [Some custom followed organizations and users which tracks new created projects](https://us-central1-social-channel-notifier.cloudfunctions.net/ghUserProject_Rss)
 
+##### Tools 
+SteamPage to Rss
+
 
 ![Browser Extension](https://shields.io/badge/My%20Browser%20Extensions-green?logo=googlechrome&style=for-the-badge&color=0D76A8&logoColor=white)
 
 > [+Sub](https://github.com/plussub/plussub) is an browser extension which adds subtitle to HTML `<video>` tags via file or subtitle search powered by [tmbd](https://www.themoviedb.org/) & [opensubtitles](https://opensubtitles.org)
 
+https://github.com/ste-xx/ct-browser-extension
+
+https://github.com/ste-xx/gist-userscript-manager store  https://chrome.google.com/webstore/detail/gist-user-script-manager/plpmkifleemfflmlnogdncmhlljcpdab?hl=en&authuser=0
+
+
 ![Algo](https://shields.io/badge/Algo%20Fun-green?style=for-the-badge&color=0D76A8&logoColor=white)
+
+> [Stone Puzzle Solver](https://stone-puzzle.netlify.app/) - ([source](https://github.com/ste-xx/stone-color-puzzle))
+
+https://github.com/ste-xx/path-algo 
+
+![Misc](https://shields.io/badge/Misc-green?style=for-the-badge&color=0D76A8&logoColor=white)
+
+https://github.com/ste-xx/eslint-rule-gh-issue
+
+https://github.com/plussub/srt-vtt-parser 
