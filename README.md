@@ -30,17 +30,14 @@ I'm just a guy who loves to code.
 I have an affection for RSS Feeds, so I build some custom ones.
 There are RSS GitHub Actions which will be called by the [RSS Watch GitHub Workflow](https://github.com/ste-xx/rss-watch). 
 
-#### [r/programming](https://us-central1-social-channel-notifier.cloudfunctions.net/reddit_Rss)
-at least a score from 500 in a week.
+| RSS         | Description | GitHub Action | 
+| ----------- | ----------- | --------------|
+| [r/programming](https://raw.githubusercontent.com/ste-xx/rss-watch/main/rprogramming.json) | At least a score from 500 in a week. | [Action](https://github.com/ste-xx/reddit-to-rss-action) |
+| [HackerNews](https://raw.githubusercontent.com/ste-xx/rss-watch/main/hn.json) | At least 500 points in a week. | [Action](https://github.com/ste-xx/hackernews-to-rss-action) |
+| [ProductHunt](https://raw.githubusercontent.com/ste-xx/rss-watch/main/ph.json) | At least 350 votes in a week. | [Action](https://github.com/ste-xx/producthunt-to-rss-action) |
+| [Followed organizations and users on GitHub](https://raw.githubusercontent.com/ste-xx/rss-watch/main/ghuserprojects.json) | Which tracks new created projects. | [Action](https://github.com/ste-xx/gh-user-projects-rss-action) |
 
-#### [HackerNews](https://raw.githubusercontent.com/ste-xx/rss-watch/main/hn.json)
-at least 500 points in a week.
 
-#### [ProductHunt](https://raw.githubusercontent.com/ste-xx/rss-watch/main/ph.json)
-at least 350 votes.
-
-#### [Followed organizations and users](https://raw.githubusercontent.com/ste-xx/rss-watch/main/ghuserprojects.json)
-which tracks new created projects
 
 ##### Tools 
 [Steam Product Page to RSS](https://ste-xx.github.io/steam-rss-link/) - Steam supports RSS feeds for products but does not provide any links on their product page. With that little website you can transform Steam Product Page URL to the relatet RSS feed page.
