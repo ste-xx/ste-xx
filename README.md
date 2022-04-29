@@ -54,3 +54,10 @@ There are RSS GitHub Actions which will be called by the [RSS Watch GitHub Workf
 [ESLint-Plugin for closed github issues](https://github.com/ste-xx/eslint-rule-gh-issue) - don't let workaround code live forever
 
 [srt/vtt parser](https://github.com/plussub/srt-vtt-parser) - a dependency-free subtitle parser for srt and vtt files
+
+![Personal](https://shields.io/badge/Personal%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D-green?style=for-the-badge&color=0D76A8&logoColor=white)
+
+[Book key take aways](https://github.com/ste-xx/book-key-takeaways) from books which I read
+
+[Steam price watcher](https://github.com/ste-xx/steam-price-watcher/blob/main/report.tsv) for games which I'm interessted in
+
