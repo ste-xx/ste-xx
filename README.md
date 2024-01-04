@@ -28,7 +28,7 @@ I'm just a guy who loves to code.
 ![RSS](https://shields.io/badge/My%20Custom%20Feeds%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D%9D-green?logo=rss&style=for-the-badge&color=0D76A8)
 
 I have an affection for RSS Feeds, so I build some custom ones.
-There are RSS cloudfare worker. [RSS Crawer](https://github.com/ste-xx/rss-crawler). 
+There are RSS cloudfare worker. [RSS Crawler](https://github.com/ste-xx/rss-crawler). 
 
 | RSS         | Description |
 | ----------- | ----------- |
